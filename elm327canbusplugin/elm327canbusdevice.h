@@ -1,4 +1,4 @@
-#pragma once
+5e326d1e4c08142fa1ac42115a109fcebccf2010#pragma once
 
 #include <QCanBusDevice>
 #include <QSerialPort>
